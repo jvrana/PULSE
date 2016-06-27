@@ -1,5 +1,19 @@
 # PULSE
 
+
+## Opensource LED pulser for optogenetic applications
+
+This repo provides instructions for building an inexpensive and open-sourced LED pulser for optogenetic applications. The pulser is a multi-output, programmable LED light device. 
+
+IMAGE OF INTERFACE
+
+IMAGE OF IT IN ACTION
+
+IMAGE OF IT BEING BUILT
+
+Service: ...message about contact...
+
+
 /*
  @author: Justin D Vrana
  @version v2.32
